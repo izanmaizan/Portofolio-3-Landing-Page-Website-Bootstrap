@@ -1,0 +1,54 @@
+.banner{
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
+.lingkaran{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    color: #FFF;
+    background-color: #dc3545;
+    border-radius: 50%;
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.staff img {
+    width: 250px;
+    border: 10px solid #cccccc;
+} 
+
+a.social-media{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.contact{
+    background: url(img/contact.webp) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
